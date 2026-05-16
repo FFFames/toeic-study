@@ -2,7 +2,7 @@
 
 A comprehensive web application for TOEIC (Test of English for International Communication) preparation. Features vocabulary flashcards, practice sections for all TOEIC parts, mock exams, and writing practice.
 
-![TOEIC Master](index.html)
+**Live Demo**: [https://leafy-scone-d76e9a.netlify.app/](https://leafy-scone-d76e9a.netlify.app/)
 
 ## Features
 
