@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Playwright
+.playwright-mcp/
+
+# Qodo
+.qodo/
+
+# Screenshots (if you don't want to track them)
+*.png
+
+# Temporary files
+*.tmp
+*.log
